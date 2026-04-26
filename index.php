@@ -1,5 +1,5 @@
 <?php
-$koneksi = mysqli_connect("localhost", "root", "", "belajarmysql");
+$koneksi = mysqli_connect("localhost", "root", "321", "belajarmysql");
 if (!$koneksi){
     echo "Koneksi gagal";
     return;
