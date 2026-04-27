@@ -4,6 +4,7 @@
 - CREATE TABLE
 - INSERT DATA
 - SELECT QUERY
+- JOIN
 - UPDATE & DELETE
 ---
 ## Menambahkan Security basic
